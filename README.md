@@ -3,7 +3,7 @@ Asus k45vd hackintosh opencore EFI for Catalina
 Forked and broken EFI folder for ASUS K45V/K45VM/K45VD. For better compatibility check author's original one (Catalina)
 
 
-Info
+**Info**
 
 
 macOS Big Sur 11.6 
@@ -21,8 +21,7 @@ Intel N100
 RTL81XX
 
 
-What's working:
-
+**What's working:**
 
 1.Intel graphics
 
@@ -43,7 +42,7 @@ What's working:
 9.Ethernet card
 
 
-What doesn't work:
+**What doesn't work:**
 
 1.Fn shortcuts 
 
